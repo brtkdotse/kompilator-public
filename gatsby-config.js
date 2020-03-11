@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Kompilator - podcasten för nyfikna utvecklare`,
     author: {
-      name: `Kyle Mathews`,
+      name: `Bartek Tatkowski`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://kompilator-public.netlify.com/`,
     social: {
       twitter: `kylemathews`,
     },
@@ -69,6 +69,16 @@ module.exports = {
         icon: `content/assets/gatsby-icon.png`,
       },
     },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `corben\:700` // you can also specify font weights and styles
+        ],
+        display: 'swap'
+      }
+    },
+    `gatsby-plugin-postcss`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-typography`,

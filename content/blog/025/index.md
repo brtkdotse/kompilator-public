@@ -5,8 +5,6 @@ date: "2020-02-05T01:00:00.01Z"
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/3c906dd8-fb4c-4c50-884e-5726437df337?dark=false"></iframe>
 
-Lyssna på [Spotify](https://open.spotify.com/show/3yUXDikALYz3dDYhmKaXRs) | [iTunes](https://podcasts.apple.com/se/podcast/kompilator/id1455198510) | [Overcast](https://overcast.fm/itunes1455198510/kompilator)
-
 Denna vecka pratar Bartek med Jimmy Engström, Microsoft MVP och Blazor-entusiast. Frontend-ramverk kommer och frontend-ramverk går, ibland fortare än man hinner blinka. Bränd av tidigare erfarenheter med Silverlight och Angular 1 är Bartek väldigt skeptiskt mot Microsoft nya ramverk Blazor som lovar C# - i browsern! Jimmys team har redan hunnit porta två applikationer till Blazor och han tar med oss på en resa in i C# i browsern, DOM-ändringar via SignalR och WebAssembly. Kommer Bartek att bli övertalad?
 
 ## Veckans gäst

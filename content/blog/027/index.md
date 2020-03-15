@@ -5,8 +5,6 @@ date: "2020-03-03T13:00:00.01Z"
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/d7b646de-8fc5-40da-b414-2f2fc2e5a71d?dark=false"></iframe>
 
-Lyssna på [Spotify](https://open.spotify.com/show/3yUXDikALYz3dDYhmKaXRs) | [iTunes](https://podcasts.apple.com/se/podcast/kompilator/id1455198510) | [Overcast](https://overcast.fm/itunes1455198510/kompilator)
-
 .Net Rocks is probably the worlds longest running podcast - it started before the first iPod was released! This week Bartek sits down with Carl Franklin and Richard Campbell, the two hosts of .Net Rocks and chats about topics like the history of .Net, podcasting in the early 2000's, who killed Silverlight and of course - what if .Net doesn't rock? (Spoiler: it totally does).
 
 ## Veckans gäst

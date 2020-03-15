@@ -5,8 +5,6 @@ date: "2020-02-18T01:00:00.01Z"
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/489ce754-f0bd-4981-9fc0-8d527acb62ac?dark=false"></iframe>
 
-Lyssna på [Spotify](https://open.spotify.com/show/3yUXDikALYz3dDYhmKaXRs) | [iTunes](https://podcasts.apple.com/se/podcast/kompilator/id1455198510) | [Overcast](https://overcast.fm/itunes1455198510/kompilator)
-
 Veckans gäst är [Martin Björkström](https://twitter.com/mholo65) och ämnet är gRPC. Martin berättar om detta kommunikationsprotokoll, hur det funkar och hur det står sig mot andra protokol och patterns. Vi får även reda på att "g":et inte nödvändigtvis behöver stå för "Google". Martin är även en open source contributor, bland annat till Cake Build, men även till Omnisharp, som är motorn som driver Intellisense i VS Code.
 
 ## Veckans gäst

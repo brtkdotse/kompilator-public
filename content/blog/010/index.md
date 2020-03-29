@@ -1,6 +1,8 @@
 ---
 title: 010 – Mobbprogrammering med Åsa Liljegren
 date: "2019-06-05T01:00:00.01Z"
+summary: I veckans avsnitt av Kompilator pratar Bartek med Åsa Liljegren. Ämnet för samtalet är mobbprogrammering, en form av parprogrammering där hela teamet jobbar tillsammans framför en skärm och löser en uppgift ihop.
+image: ./asa-liljegren.png
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/c70941cc-b0b5-4950-9c6c-274a9f74a2fd?dark=false"></iframe>

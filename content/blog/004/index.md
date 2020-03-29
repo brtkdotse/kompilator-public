@@ -1,6 +1,9 @@
 ---
 title: 004 – Öppen källkod  ❤️ BankID med Peter Örneholm
 date: "2019-03-27T01:00:00.01Z"
+image: ./peter-orneholm.png
+summary: I detta avsnitt träffar vi utvecklaren och Azure MVPn Peter Örneholm som nyligen har lanserat ActiveLogin – ett open source-bibliotek för säkra upp din applikation med BankId. Vi dyker ner i juridiken kring hur personnummer är utformade, F# och praktikaliteterna kring att driva ett open source-projekt.
+
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless="" src="https://player.simplecast.com/55e85256-7437-433c-9420-fb62539f3d3e?dark=false"></iframe>

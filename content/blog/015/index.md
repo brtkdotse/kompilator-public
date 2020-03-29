@@ -1,6 +1,8 @@
 ---
 title: 015 - Ett team utan rädsla med Joel Abrahamsson
 date: "2019-09-18T01:00:00.01Z"
+summary: I veckans avsnitt av Kompilator pratar Bartek med Joel Abrahamsson, med en lång meritlista som innefattar bland annat Sveriges Bästa Utvecklare 2016 och chefsutvecklare på Expressen. Joel berättar bland annat om att starta och sälja en techstartup. Bartek har sett en dragning som Joel hade på Öredev där han pratade om att bygga team "utan rädsla" - där nyanställda får göra en deploy till produktion redan första dagen!
+image: ./joel-abrahamsson.jpg
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/34a5bf2c-d30a-49b5-8322-5df3a6720c79?dark=false"></iframe>

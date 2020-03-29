@@ -1,6 +1,8 @@
 ---
 title: 021 - IT-bubblan 2.0 med Martin Edenström
 date: "2019-12-11T01:00:00.01Z"
+image: ./martin-edenstrom.jpg
+summary: Enligt lyssnarstatistiken har Kompilator minst 30 lyssnare som inte var födda under it-bubblan. Bartek och Martin Edenström tar en walk down memory lane om millenieskiftet då IT-yran var glödhet, kepskillar med HTML-skills regerade Stureplan och hur allting krashade över en natt. Martin var med mitt i hetluften och dokumenterade allt på sin sajt kickad.nu - ser han några likheter med dagens situation där företagen slåss om att erbjuda jobb till utvecklare? Bör vi vara oroliga? Är IT-bubblan 2.0 här?
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/146a9174-b8b9-46c8-b011-1c295d8c1899?dark=false"></iframe>

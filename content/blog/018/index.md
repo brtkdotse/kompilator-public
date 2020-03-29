@@ -1,6 +1,8 @@
 ---
 title: 018 - Hållbar Open Source med Patrik Svensson
 date: "2019-10-30T01:00:00.01Z"
+summary: Det är stort att släppa ett projekt till allmänheten, vare sig det är betalapp eller ett open source-projekt. I detta avsnitt pratar Bartek med Patrik Svensson dels om hans open source-projekt Cake, dels om hans betal-app Ghostly. Det diskuteras hållbar utveckling, folks orimliga förväntingar på open source-maintainers och det problematiska i att ta emot donationer. Cake är även med i .Net Foundation som funkar som en bra försäkring utifall att någon tongivande medlem i projektet blir påkörd av lotteribussen. 
+image: ./patrik-svensson.png
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/22299057-7107-4540-9953-0576d59ae778?dark=false"></iframe>

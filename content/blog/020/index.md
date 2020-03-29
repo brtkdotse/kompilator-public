@@ -1,6 +1,8 @@
 ---
 title: 020 - Anledningar att koda ReasonML med Andreas Eldh
 date: "2019-11-27T01:00:00.01Z"
+summary: Veckans avsnitt handlar om språket ReasonML, ett funktionellt, hårt typat språk som är inspirerat av OCaml. Bartek och Andreas Eldh diskuterar hur typsystem kan hjälpa till att bygga bättre webb, historiken bakom funktionella språk samt, litet otippat, för- och nackdelar med att jobba i kontorslandskap.
+image: ./andreas-eldh.jpeg
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/95b44df9-8eba-4ca0-b4e0-4258a457dfd3?dark=false"></iframe>

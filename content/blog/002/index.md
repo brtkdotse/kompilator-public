@@ -1,6 +1,9 @@
 ---
 title: 002 - Statiska sajter med Robert Linde
 date: "2019-03-13T01:00:00.01Z"
+image: ./robert-linde.jpg
+summary: I detta avsnitt träffar vi Robert Linde och pratar statiska sajter och headless CMS. Visste du att det absolut snabbaste sättet att serva en sajt är att ha en uppsättning statiska HTML-filer? Att bygga en sådan sajt för hand kan vara väldigt arbetskrävande, så vi diskuterar verktyg som underlättar detta. 
+
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless="" src="https://player.simplecast.com/30abb33f-3081-4e5e-a8f3-c8862b0fe608?dark=false"></iframe>

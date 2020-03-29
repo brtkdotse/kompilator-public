@@ -1,6 +1,8 @@
 ---
 title: 005 – cUrl driver internet med Daniel Stenberg
 date: "2019-04-03T01:00:00.01Z"
+summary: I veckans avsnitt pratar vi med Daniel Stenberg, upphovsmannen bakom cURL, HTTP-expert och mottagare av Polhemspriset. Vi får höra vad som händer när 6 000 000 bilar inte kan ladda ner en firmware-uppdatering, hur det var att utveckla open source-mjukvara på 90-talet och om att vara portad från USA.
+image: ./daniel-stenberg.jpg
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless="" src="https://player.simplecast.com/3303344d-3abf-425e-9df3-de294544f1f7?dark=false"></iframe>

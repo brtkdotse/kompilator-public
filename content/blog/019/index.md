@@ -1,6 +1,8 @@
 ---
 title: 019 - Koda robotar med Sanna Marklund
 date: "2019-11-13T01:00:00.01Z"
+summary: Barteks aldrig sinande törst efter utveckling som inte handlar om webb får sitt lystmäte när han i detta avsnitt får prata med Sanna Marklund om robotutveckling. Sanna utvecklar sociala robotar på företaget Prototyp, och då särskillt på plattformen Furhat. Vi dyker ner i detaljerna om hur man designar, bygger och testar robotar, och får bland annat reda på att  att robotar passar utmärkt i HR-sammanhang då de helt saknar fördomar.
+image: ./sanna-marklund.jpg
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/544f53b1-056f-4bce-8091-c7c8f8c22a26?dark=false"></iframe>

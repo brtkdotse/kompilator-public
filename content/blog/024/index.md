@@ -1,6 +1,8 @@
 ---
 title: 024 – UX står för User Experience med Jessica Engström
 date: "2020-01-22T01:00:00.01Z"
+summary: Jessica Engström är veckans gäst i Kompilator. Hon berättar om sina stora passion UX, eller User Experience. Vi får reda på bakgrunden bakom UX och vad det är och inte är. Jessica delar med sig av några konkreta tips för den som vill komma igång och det pratas UX-lagar. Avsnittet avrundas med en diskussion om UX i VR/AR där dåligt UX kan innebära att man blir åksjuk.
+image: ./jessica-engstrom.jpg
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/82e95468-553c-4682-829c-55ee4640b7f7?dark=false"></iframe>

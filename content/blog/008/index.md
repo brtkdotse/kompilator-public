@@ -1,6 +1,8 @@
 ---
 title: 008 – HTTP... 3?! med Daniel Stenberg
 date: "2019-04-24T01:00:00.01Z"
+summary: Daniel Stenberg är tillbaka som gäst och denna gång djuperdyker vi i HTTP/3. Ingen är mer förvånad än Bartek som precis blivit bekväm med HTTP/1 och upptäckt att HTTP/2 existerar. Vi pratar prestanda, fördelar med QUIC, superhjältarna i IETF och varför man behöver en ny uppsättning verktyg när man jobbar med HTTP/2 och uppåt.
+image: ./daniel-stenberg.jpg
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/ff476127-b1db-4a93-aabc-a7e4505d3901?dark=false"></iframe>

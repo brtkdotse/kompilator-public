@@ -1,6 +1,10 @@
 ---
 title: 011 – Säker HTTP med Cecilia Wirén
 date: "2019-07-03T01:00:00.01Z"
+summary: I veckans avsnitt av Kompilator pratar Bartek och Cecilia om säkerheten online och vad man ska tänka på för att skydda sin hemsida från intrång. De pratar också om olika former av headers som är vanliga på .Net och vad som skiljer sig mellan de sju mer frekvent använda versionerna av headers.
+
+image: ./cecilia-wiren.jpg
+mp3url: https://player.simplecast.com/8231abcd-485d-48f1-aab5-5090f6723789?dark=false
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/8231abcd-485d-48f1-aab5-5090f6723789?dark=false"></iframe>

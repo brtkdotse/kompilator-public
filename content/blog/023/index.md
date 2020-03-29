@@ -1,6 +1,8 @@
 ---
 title: 023 – Produkttänk med Peter Sunna
 date: "2020-01-08T01:00:00.01Z"
+summary: I denna veckas avsnitt pratar Bartek med Peter Sunna som arbetar med produktstrategi på Contentful. Diskussionen börjar med att prata trender inom headless, statiska sajter och webben i stort men glider ganska snabbt över på hur man ska tänka strategi med sin produkt, den bästa dokumentationen någonsin samt varför så få tekniska ledare läser klassiska böcker.
+image: ./peter-sunna.jpg
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/016d202c-1863-48fa-a7db-b99ff07c6e76?dark=false"></iframe>

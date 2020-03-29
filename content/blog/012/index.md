@@ -1,6 +1,8 @@
 ---
 title: 012 – Mixad verklighet med Jimmy Engström
 date: "2019-08-07T01:00:00.01Z"
+summary: Denna vecka pratar Bartek med Jimmy Engström, Microsoft MVP och HoloLens-entusiast. På agendan finns hur Windows-applikationer utvecklas idag, Jimmy är MVP för Windows Development. Jimmy har även länge brunnit för virtuell verklighet och tar oss på en resa från Amiga 3000, via Force Feedback och ända fram till dagens VR-glasögon och då särskilt Microsoft HoloLens. Vi får lära oss skillnaden på VR och AR (augumented reality), vad som finns på marknaden idag, vad som kommer i framtiden och givetvis - hur man utvecklar VR/AR-appar.
+image: ./jimmy-engstrom.jpg
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/f578a29c-6617-4821-965f-e9ab63da4ed8?dark=false"></iframe>

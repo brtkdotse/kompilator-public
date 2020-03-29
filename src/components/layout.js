@@ -1,6 +1,5 @@
 import React from "react"
 import { Link } from "gatsby"
-import { rhythm, scale } from "../utils/typography"
 import toplogo from "../../content/assets/header-logo.png"
 
 const Layout = ({ location, title, children }) => {
@@ -9,13 +8,13 @@ const Layout = ({ location, title, children }) => {
 
 
   return (
-    <div className="max-w-7xl mx-auto sm:px-6 lg:px-8">
+    <div className="max-w-7xl mx-auto sm:px-6 lg:px-8 no-boxshadow">
       <div className="relative bg-white overflow-hidden">
         <div x-data="{ open: false }" className="relative pt-6 pb-16 md:pb-20 lg:pb-24 xl:pb-32">
           <nav className="relative max-w-screen-xl mx-auto flex items-center justify-between px-4 sm:px-6">
             <div className="flex items-center flex-1">
               <div className="flex items-center justify-between w-full md:w-auto">
-                <a href="#">
+                <a href="/">
                   <img className="h-8 w-auto sm:h-10" src={toplogo} alt="" />
                 </a>
                 <div className="-mr-2 flex items-center md:hidden">
@@ -68,8 +67,9 @@ const Layout = ({ location, title, children }) => {
 
           {children}
 
-</div></div>
-          
+        </div>
+      </div>
+
       <div className="bg-white">
         <div className="max-w-screen-xl mx-auto py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
           <div className="flex justify-center md:order-2">
@@ -106,7 +106,7 @@ const Layout = ({ location, title, children }) => {
           </div>
           <div className="mt-8 md:mt-0 md:order-1">
             <p className="text-center text-base leading-6 text-gray-400">
-              &copy; 2020 Workflow, Inc. All rights reserved.
+              &copy; 2020 Yoisho AB
       </p>
           </div>
         </div>

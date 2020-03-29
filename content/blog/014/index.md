@@ -1,6 +1,8 @@
 ---
 title: 014 - Unittesta ett teleskop med Jakob Sagatowski
 date: "2019-09-04T01:00:00.01Z"
+summary: Denna vecka pratar Bartek med Jakob Sagatowski som till vardags jobbar med mjukvaran till världens största teleskop - Extremely Large Telescope. Ur hans arbete där har open source-projektet TcUnit kläckts, som är ett ramverk för enhetstester för PLC-kontrollers. De diskuterar även hur det är att jobba med mjukvara som måste fungera i flera decennier och den bitterljuva charmen i att inte behöva jaga den senaste tekniken hela tiden.
+image: ./jakob-sagatowski.jpg
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/caa7e369-0f88-437e-9d27-803ba4698306?dark=false"></iframe>

@@ -1,6 +1,9 @@
 ---
 title: 003 – Skalad agilitet med Erica Karlsson
 date: "2019-03-20T01:00:00.01Z"
+image: ./erica-karlsson.jpg
+summary: I detta avsnitt träffar vi Erica Karlsson, agil coach på SPP, och pratar om hur man kan skala upp det agila arbetet till att omfatta en hel organisation. Kan man verkligen driva ett helt företag i sprintar? Vad är ett inkrement? Går det verkligen att ha en sprintplanering tillsammans med hundratals människor? Svaret på detta och mycket mer i veckans avsnitt!
+
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless="" src="https://player.simplecast.com/15cde978-26e1-4266-b3a2-2996401830d7?dark=false"></iframe>

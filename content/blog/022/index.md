@@ -1,6 +1,8 @@
 ---
 title: 022 – (Repris av 010) Mobbprogrammering med Åsa Liljegren
 date: "2019-12-25T01:00:00.01Z"
+summary: God jul kära lyssnare! På grund av julledighet sänds idag ett avsnitt i repris. Mycket nöje! I veckans avsnitt av Kompilator pratar Bartek med Åsa Liljegren. Ämnet för samtalet är mobbprogrammering, en form av parprogrammering där hela teamet jobbar tillsammans framför en skärm och löser en uppgift ihop.
+image:  ./asa-liljegren.png
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/ffa24326-3994-4b6e-9867-9e0187023bc6?dark=false"></iframe>

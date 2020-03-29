@@ -1,6 +1,8 @@
 ---
 title: 006 – Tillgänglighet för alla med Ida Franceen
 date: "2019-04-10T01:00:00.01Z"
+image: ./ida-franceen.png
+summary: Denna vecka träffar vi Ida Franceen som brinner för tillgänglighet, på engelska accessibility. Till skillnad från vad många tror handlar det inte om ett sista steg som ska läggas på innan projektet skeppas utan det ska finnas med från börjar – det underlättar och förbättrar för alla användare! Vi går igenom några handfasta tips på hur man kan få sina egna projekt att bli tillgängliga för fler användare, om meetups och mastodontrapporter som aldrig blir lästa.
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless="" src="https://player.simplecast.com/c2ac112f-fbb9-4b42-a2a2-acf98cebb4a3?dark=false"></iframe>

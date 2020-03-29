@@ -1,6 +1,9 @@
 ---
 title: 013 – Catching up with Scott Hanselman
 date: "2019-08-21T01:00:00.01Z"
+image: ./scott-hanselman.jpg
+summary: This episode of Kompilator is a special one - it's the first one recorded in English!  Bartek met up with Scott Hanselman at DevSum 19 where Scott just had delivered the opening keynote - "Solving diabetes in 2019 with an open source artificial pancreas". Bartek and Scott discuss command line interfaces, running a nightly build of your pancreas, open source at Microsoft and top it off with a coaching session on personal productivity using podcasting as an example.
+
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/ef1cb91d-1a6d-4019-8549-e1fc0a2aa746?dark=false"></iframe>

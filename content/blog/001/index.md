@@ -1,6 +1,8 @@
 ---
 title: 001 - Vi pratar vi med Esteban Vega
 date: "2019-03-06T01:00:00.01Z"
+summary: I detta avsnitt pratar vi med Esteban Vega, full-stack utvecklare på SPP, om bryta sig loss från muspekaren och in i en värld av kortkommadon för att komma ut i hastighet och ergonomi vid tangentbordet. Esteban Vega är en självlärd utvecklare som är nyfiken på allt inom front-end. Esteban har 7 års erfarenhet inom webb-teknologier och jobbar idag på SPP Tech.
+image: ./esteban-vega.jpg
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless="" src="https://player.simplecast.com/a4aa8fea-bc20-40a1-aa01-395f72c734bc?dark=false"></iframe>

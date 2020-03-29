@@ -1,6 +1,9 @@
 ---
 title: 009 – Vägen till MVP med Cecilia Wirén
 date: "2019-05-01T01:00:00.01Z"
+image: ./cecilia-wiren.jpg
+summary: I veckans avsnitt av Kompilator pratar Bartek och Cecilia framförallt om Cecilias utmärkelse som MVP för Microsoft och allt vad detta innebär. Vilket arbete krävs för att man ska kunna bli nominerad och vilka prestationer kan man bli nominerad för? 
+
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/778159fd-df30-46ce-9e8a-4cab3b874399?dark=false"></iframe>

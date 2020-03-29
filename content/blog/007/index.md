@@ -1,6 +1,10 @@
 ---
 title: 007 - Öppna sociala nätverk med Pelle Wessman
 date: "2019-04-17T01:00:00.121Z"
+image: ./pelle-wessman.jpg
+summary: Bartek pratar med [Pelle Wessman](https://twitter.com/voxpelli), som jobbar som tech lead för Sydsvenskan och Helsingborgs Dagblad. De diskuterar distribuerade sociala nätverk, men vad menas egentligen med att det? Hur ser möjligheterna ut för att starta ett nytt socialt nätverk? En mycket intressant diskussion om den makt som de stora företagen inom sociala medier har och vilka moraliska förpliktelser det egentligen innebär. Häng med och lyssna!
+
+
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/1a996068-9b8d-40b9-b396-2c53302b1234?dark=false"></iframe>

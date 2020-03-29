@@ -1,6 +1,8 @@
 ---
 title: 017 - Secure By Design med Daniel Deogun & Dan Bergh Johnsson
 date: "2019-10-16T01:00:00.01Z"
+summary: Att släppa en riktig, fysisk bok ligger nog på många utvecklares önskelista. Några som har gjort slag i saken är veckans gäster - Daniel Deogun och Dan Bergh Johnsson från Omegapoint. De har precis gett ut en bok på Manning Publications - Secure By Design - där avhandlar hur man gör säkerhet till en naturlig del av designen. I veckans avsnitt pratar Bartek med Dan och Daniel och får lära sig vad CIA Triad är, att säkerhet är en business enabler och att man inte ska lagra personnummer som en sträng.
+image: ./daniel-deogun.jpg
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/b44de404-80d0-401d-90be-bead22224154?dark=false"></iframe>

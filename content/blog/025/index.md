@@ -3,6 +3,9 @@ title: 025 - Inte bränd av Blazor med Jimmy Engström
 date: "2020-02-05T01:00:00.01Z"
 summary: Denna vecka pratar Bartek med Jimmy Engström, Microsoft MVP och Blazor-entusiast. Frontend-ramverk kommer och frontend-ramverk går, ibland fortare än man hinner blinka. Bränd av tidigare erfarenheter med Silverlight och Angular 1 är Bartek väldigt skeptiskt mot Microsoft nya ramverk Blazor som lovar C# - i browsern! Jimmys team har redan hunnit porta två applikationer till Blazor och han tar med oss på en resa in i C# i browsern, DOM-ändringar via SignalR och WebAssembly. Kommer Bartek att bli övertalad?
 image: ./jimmy-engstrom.jpg
+playerUrl: https://player.simplecast.com/3c906dd8-fb4c-4c50-884e-5726437df337?dark=false
+bio: Sju år gammal fick Jimmy sin första dator, en ZX Spectrum , och sedan dess har han inte kunnat sluta koda. Han brinner för allt som är nytt och tillsammans med sin fru driver de företaget Azm Dev som fokuserar på just det, allt som är nytt. När han inte kodar (ja det finns såna tillfällen även om de är få) så spenderar han tid på att förbättra sin och andras presentationsteknik genom att vara mentor och studera allt tänkbart material i ämnet. Han har vart världen runt och föreläst på utvecklingskonferenser vilket bland annat har lett till att han blivit Microsoft MVP för sjätte året i rad. Han är även co-host för podcasten [Coding After Work Podcast](http://www.codingafterwork.se/).
+guest: Jimmy Engström
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/3c906dd8-fb4c-4c50-884e-5726437df337?dark=false"></iframe>

@@ -22,7 +22,7 @@ const BlogIndex = ({ data, location }) => {
                 <div className="text-sm font-semibold uppercase tracking-wide text-gray-500 sm:text-base lg:text-sm xl:text-base">
                   Podcasten
             </div>
-                <h2 className="mt-1 text-4xl tracking-tight leading-10 font-extrabold text-red-900 sm:leading-none sm:text-6xl lg:text-5xl xl:text-6xl">
+                <h2 className="hero mt-1 text-4xl tracking-tight leading-10 font-extrabold text-red-900 sm:leading-none sm:text-6xl lg:text-5xl xl:text-6xl">
                   Kompilator
               </h2>
                 <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">

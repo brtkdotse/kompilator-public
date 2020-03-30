@@ -3,6 +3,7 @@ title: 027 - What if .Net doesn't rock? with Carl Franklin & Richard Campbell
 date: "2020-03-03T13:00:00.01Z"
 summary: ".Net Rocks is probably the worlds longest running podcast - it started before the first iPod was released! This week Bartek sits down with Carl Franklin and Richard Campbell, the two hosts of .Net Rocks and chats about topics like the history of .Net, podcasting in the early 2000's, who killed Silverlight and of course - what if .Net doesn't rock? (Spoiler: it totally does)."
 image: ./dotnetrocks.jpg
+playerUrl: https://player.simplecast.com/d7b646de-8fc5-40da-b414-2f2fc2e5a71d?dark=false
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/d7b646de-8fc5-40da-b414-2f2fc2e5a71d?dark=false"></iframe>

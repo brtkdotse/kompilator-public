@@ -13,17 +13,17 @@ const EpisodeCard = ({ episode }) => {
 
     return (
 
-        <div className="flex flex-col rounded-lg shadow-lg overflow-hidden">
+        <div itemscope itemtype="http://schema.org/PodcastEpisode"  className="flex flex-col rounded-lg shadow-lg overflow-hidden">
             <div className="flex-shrink-0">
                 <Img className="h-80 w-full object-cover" fluid={imageFluid} alt="" />
             </div>
             <div className="flex-1 bg-white p-6 flex flex-col justify-between">
                 <div className="flex-1">
-                    <Link to={episode.fields.slug} href="" className="block">
-                        <h3 className="mt-2 text-xl leading-7 font-semibold text-gray-900">
+                    <Link itemprop="url" to={episode.fields.slug} href="" className="block">
+                        <h3 itemprop="name" className="mt-2 text-xl leading-7 font-semibold text-gray-900">
                             {episode.frontmatter.title}
                         </h3>
-                        <p className="mt-3 text-base leading-6 text-gray-500">
+                        <p itemprop="description" className="mt-3 text-base leading-6 text-gray-500">
                             {episode.frontmatter.summary}
                         </p>
                         
@@ -40,7 +40,7 @@ const EpisodeCard = ({ episode }) => {
                             Med Bartek Tatkowski
                         </p>
                         <div className="flex text-sm leading-5 text-gray-500">
-                            <time datetime={episode.frontmatter.date}>
+                            <time itemprop="datePublished" datetime={episode.frontmatter.date}>
                                 {episode.frontmatter.date}
                             </time>
                             <span className="mx-1">

@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Kompilator - podcasten för nyfikna utvecklare`,
+    title: `Podcasten Kompilator`,
     author: {
       name: `Bartek Tatkowski`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://kompilator-public.netlify.com/`,
+    description: `Kompilator - podcasten för nyfikna utvecklare.`,
+    siteUrl: `https://kompilator.se/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `kompilatorpod`,
     },
   },
   plugins: [
@@ -60,13 +60,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Podcasten Kompilator`,
+        short_name: `Kompilator`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/header-logo.png`,
       },
     },
     {

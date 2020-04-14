@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 const Episodes = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
+  const siteTitle = "Alla avsnitt"
   const posts = data.allMarkdownRemark.edges
 
   return (

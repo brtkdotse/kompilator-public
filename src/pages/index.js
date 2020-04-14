@@ -26,16 +26,16 @@ const BlogIndex = ({ data, location }) => {
                   Kompilator
               </h2>
                 <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-                  Podcasten för nyfikna utvecklare. Varannan vecka träffar <a href="https//brtk.se">Bartek Tatkowski</a> en ny gäst och samtalar om utveckling, open source, startups och teknik.
+                  Podcasten för nyfikna utvecklare. Varannan vecka träffar <a href="https://brtk.se">Bartek Tatkowski</a> en ny gäst och samtalar om utveckling, open source, startups och teknik.
             </p>
                 <div className="mt-5 flex sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0">
-                  <img className="w-1/4 m-2" src={spotify} />
-                  <img className="w-1/4 m-2" src={itunes} />
-                  <img className="w-1/4 m-2" src={overcast} />
+                  <a  className="w-1/4 m-2" href="https://open.spotify.com/show/3yUXDikALYz3dDYhmKaXRs"> <img src={spotify} /></a>
+                  <a  className="w-1/4 m-2" href="https://podcasts.apple.com/se/podcast/kompilator/id1455198510?mt=2"><img src={itunes} /></a>
+                  <a className="w-1/4 m-2"  href="https://overcast.fm/itunes1455198510/kompilator"><img src={overcast} /></a>
                 </div>
               </div>
               <div className="mt-12 relative sm:max-w-lg sm:mx-auto lg:mt-0 lg:max-w-none lg:mx-0 lg:col-span-4 lg:flex lg:items-center">
-                <img className="w-full rounded-lg shadow-lg" src={logo} alt="Woman making a sale" />
+                <img className="w-full rounded-lg shadow-lg" src={logo} alt="Kompilator logo" />
 
               </div>
             </div>

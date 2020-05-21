@@ -1,6 +1,7 @@
 
 import React from "react"
 import Img from "gatsby-image"
+import ListenLinks from "../components/listenlinks"
 
 const Episode = ({post, imageFluid}) => {
     return (
@@ -16,6 +17,7 @@ const Episode = ({post, imageFluid}) => {
                 {post.frontmatter.title}
               </h1>
               <iframe height="52px" width="100%" frameborder="no" scrolling="no" seamless src={post.frontmatter.playerUrl}></iframe>
+              <ListenLinks></ListenLinks>
               <blockquote class="mt-3">
                 <div class="text-xl leading-9 font-medium text-gray-900">
                   <p>

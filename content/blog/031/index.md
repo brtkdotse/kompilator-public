@@ -5,7 +5,7 @@ image: ./jeff-fritz.jpg
 playerUrl: https://player.simplecast.com/7441a39b-5fdc-41f3-8eae-b4d7cec775fc?dark=false
 summary: In this weeks episode of Kompilator, which was recorded live at Swetugg 2020, we're visited by Jeff Fritz, program manager for Microsoft. Jeff specializes in helping existing .Net developers getting on to the latest tech and he also streams live coding on Twitch 5 days a week. We talk about being a good open source participant, upgrading your skills and the color of Jeffs beard.
 bio: Jeffrey T. Fritz – or simply “Fritz” is a Program Manager for Microsoft on the ASP.NET and .NET Community Outreach teams.  He has lead the ASP.NET Web Forms, and WCF teams and managed the MSDN Web Developer Tools blog.  He plans and assists in delivering all .NET and Visual Studio developer content at major Microsoft conferences.  Additionally, he manager the Microsoft MVP program’s interactions with the Visual Studio and .NET product teams.
-guest: Fredrik Björeman & Kristoffer Grönlund
+guest: Jeff Fritz
 
 ---
 

@@ -69,7 +69,7 @@ const Layout = ({ location, title, children }) => {
           </div>
           <div className="mt-8 md:mt-0 md:order-1">
             <p className="text-center text-base leading-6 text-gray-400">
-              &copy; 2020 Yoisho AB
+              &copy; 2020 <a href="https://yoisho.se">Yoisho AB</a>
       </p>
           </div>
         </div>

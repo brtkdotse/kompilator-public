@@ -2,7 +2,7 @@
 title: 033 - Videokursmakeri med Filip Ekberg
 date: "2020-06-04T01:00:00.01Z"
 image: ./filip-ekberg.jpg
-playerUrl: https://player.simplecast.com/e4b44799-2743-4d35-bea5-a20781a116b1?dark=false
+playerUrl: https://player.simplecast.com/0ba996a4-0d1b-4e1a-b51a-1ea79f924869?dark=false
 summary: Filip Ekberg är tillbaka i Kompilator och denna gång pratar han om hur det är att producera kurser för Pluralsight. Behöver man världens bästa utrustning för att börja? Hur lång tid tar det att spela in en kurs? Vad händer när kursen in längre är up-to-date? Dessa och många fler frågor besvaras i detta avsnitt.
 guest: Filip Ekberg
 

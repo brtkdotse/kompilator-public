@@ -3,7 +3,7 @@ title: 034 - Att bli egenkonsult med Kristoffer Grönlund
 date: "2020-07-02T01:00:00.01Z"
 image: ./kristoffer-gronlund.png
 playerUrl: https://player.simplecast.com/8603ce48-5fc2-4e21-8014-c7737e225f11?dark=false
-summary: I detta avsnitt av Kompilator pratar Bartek med Kristoffer Grönlund, känd från podgrannen Kodsnack.  Kristoffer har nyligen sadlat om till egenkonsult och Bartek är nyfiken på hur det har gått. Det pratas konsultmäklare, att våga kasta pengar på problem och en ny värld av roliga sidorprojekt som öppnas upp.
+summary: I detta avsnitt av Kompilator pratar Bartek med Kristoffer Grönlund, känd från podgrannen Kodsnack.  Kristoffer har nyligen sadlat om till egenkonsult och Bartek är nyfiken på hur det har gått. Det pratas konsultmäklare, att våga kasta pengar på problem och en ny värld av roliga sidoprojekt som öppnas upp.
 guest: Kristoffer Grönlund
 
 ---

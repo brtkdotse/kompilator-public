@@ -8,7 +8,7 @@ module.exports = {
     description: `Kompilator - podcasten för nyfikna utvecklare.`,
     siteUrl: `https://kompilator.se/`,
     social: {
-      twitter: `kompilatorpod`,
+      twitter: `brtkdotse`,
     },
   },
   plugins: [

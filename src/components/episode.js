@@ -26,6 +26,12 @@ const Episode = ({post, imageFluid}) => {
                 </div>
 
               </blockquote>
+              <div>
+              <div
+          className="blog-post-content"
+          dangerouslySetInnerHTML={{ __html: post.html }}
+        />
+              </div>
             </div>
             <div class="ml-10 hidden lg:block lg:flex-shrink-0 w-1/4">
               <Img className="w-auto h-auto rounded-lg shadow-lg" fluid={imageFluid} alt="" />

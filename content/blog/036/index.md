@@ -3,8 +3,8 @@ title: 036 - TailwindCSS med Felix Gudéhn
 date: "2020-10-08T01:00:00.01Z"
 image: ./felix-gudhen.jpg
 playerUrl: https://player.simplecast.com/6d10bf7e-71a1-4f5a-bb25-d315419ec7bb
-summary: Gäst i detta avsnitt är Felix Gudhén och vi pratar om CSS-ramverket TailwindCSS. TailwindCSS är ett så kallat utility first-ramverk och kan vid första anblicken se väldigt märkligt ut. Bartek och Felix försöker att räta hur något som ser så fel ut kan kännas så rätt.
-guest: Felix Gudhén
+summary: Gäst i detta avsnitt är Felix Gudéhn och vi pratar om CSS-ramverket TailwindCSS. TailwindCSS är ett så kallat utility first-ramverk och kan vid första anblicken se väldigt märkligt ut. Bartek och Felix försöker att räta hur något som ser så fel ut kan kännas så rätt.
+guest: Felix Gudéhn
 
 ---
 

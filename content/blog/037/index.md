@@ -1,16 +1,13 @@
 ---
-title: 018 - Hållbar Open Source med Patrik Svensson
-date: "2019-10-30T01:00:00.01Z"
+title: 037 - Datorbygge med Patrik Svensson
+date: "2020-10-28T01:00:00.01Z"
 summary: Patrik Svensson har byggt en ny utvecklardator och Bartek är sjukt jelly. Han förhör Patrik om alla val han gjort och inte gjort och passar på att fråga om några av Patriks nya open source-projekt.
 image: ./patrik-svensson.png
 playerUrl: https://player.simplecast.com/c966e09d-10b3-44e8-96dd-2a6428f3f8f7
 guest: Patrik Svensson
+bio: Patrik Svensson är en Microsoft MVP som gillar OSS och Rust. Han ligger bakom open-source-projektet Cake samt git notifikations-appen Ghostly._
 
 ---
-
-## Veckans gäst
-_[Patrik Svensson](https://twitter.com/firstdrafthell) är en Microsoft MVP som gillar OSS och Rust. Han ligger bakom open-source-projektet Cake samt git notifikations-appen Ghostly._
-
 
 ## Länkar
 

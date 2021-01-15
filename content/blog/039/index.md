@@ -12,7 +12,7 @@ guest: Linnea Hubble
 
 ## Veckans gäst
 
-_Linnea Hubble är en etablerad profil i SEO-branschen och har med sina 12 års erfarenhet ansvarat för SEO-arbetet bland annat på onlineresebyrån Etraveli med verksamhet i 70 marknader, resejätten Expedias nordiska marknader och senast på Sveriges största e-handel Dustin. Hon har suttit i juryn för Svenska SEO-priset och deltagit som talare på Swetugg på ämnet SEO för utvecklare. Numera tar Linnea konsultuppdrag som SEO-expert på distans, och lever som digital nomad. Linnea startade sin karriär på Googles huvudkontor i Mountain View, Silicon Valley, redan 2006, men valde att flytta hem till Sverige och har sedan dess även hunnit med ett par år i London._
+Linnea Hubble är en etablerad profil i SEO-branschen och har med sina 12 års erfarenhet ansvarat för SEO-arbetet bland annat på onlineresebyrån Etraveli med verksamhet i 70 marknader, resejätten Expedias nordiska marknader och senast på Sveriges största e-handel Dustin. Hon har suttit i juryn för Svenska SEO-priset och deltagit som talare på Swetugg på ämnet SEO för utvecklare. Numera tar Linnea konsultuppdrag som SEO-expert på distans, och lever som digital nomad. Linnea startade sin karriär på Googles huvudkontor i Mountain View, Silicon Valley, redan 2006, men valde att flytta hem till Sverige och har sedan dess även hunnit med ett par år i London.
 
 ## Länkar
 
